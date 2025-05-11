@@ -99,7 +99,7 @@
     "eslint": "^7.1.0",
     "eslint-plugin-storybook": "^0.6.11",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.9",
+    "lint-staged": "^16.0.0",
     "node-fetch": "^2.6.0",
     "patch-package": "^6.4.7",
     "prettier": "^2.4.0",
