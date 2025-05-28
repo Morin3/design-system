@@ -80,7 +80,7 @@
     "@babel/preset-typescript": "^7.10.1",
     "@emotion/babel-plugin": "^11.10.6",
     "@storybook/addon-a11y": "^7.6.6",
-    "@storybook/addon-actions": "^7.6.6",
+    "@storybook/addon-actions": "^9.0.0",
     "@storybook/addon-docs": "^7.6.6",
     "@storybook/addon-essentials": "^7.6.6",
     "@storybook/addon-storysource": "^7.6.6",
