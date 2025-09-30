@@ -101,7 +101,7 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.2.9",
     "node-fetch": "^2.6.0",
-    "patch-package": "^6.4.7",
+    "patch-package": "^8.0.1",
     "prettier": "^2.4.0",
     "react": "17",
     "react-dom": "17",
