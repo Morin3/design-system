@@ -87,7 +87,7 @@
     "@storybook/eslint-config-storybook": "^3.1.2",
     "@storybook/linter-config": "^3.1.2",
     "@storybook/react": "^7.6.6",
-    "@storybook/react-webpack5": "^7.6.6",
+    "@storybook/react-webpack5": "^8.2.0",
     "@svgr/cli": "^6.1.1",
     "@types/fs-extra": "^9.0.1",
     "auto": "^9.50.1",
@@ -107,7 +107,7 @@
     "react-dom": "17",
     "seedrandom": "^3.0.5",
     "sort-package-json": "^1.51.0",
-    "storybook": "^7.6.6",
+    "storybook": "^8.2.0",
     "ts-loader": "^7.0.5",
     "typescript": "^4.9.5"
   },
